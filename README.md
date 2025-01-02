@@ -4,9 +4,9 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DeiveOliveira&bg_color=0d0d0d&color=ffffff&line=002ee6&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DeiveOliveira&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+</div>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DeiveOliveira&show_icons=true&count_private=true&hide_border=true&title_color=5997EC&icon_color=5997EC&text_color=FFFFFF&bg_color=000000" alt="Deive Oliveira github stats" /> 
