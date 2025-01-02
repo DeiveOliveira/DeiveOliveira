@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00A6B6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+o+Deive+Olievira;Tenho+23+anos;Moro+em+São+Paulo;Curso+Análise+e+Desenvolvimento+de+Sistemas;Bem-vindo!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DeiveOliveira&bg_color=0d0d0d&color=ffffff&line=002ee6&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DeiveOliveira&bg_color=000000&color=ffffff&line=170ca6&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DeiveOliveira&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
