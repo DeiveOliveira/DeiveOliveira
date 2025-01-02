@@ -1,9 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 
-<div align="center">
-  <h1>Sobre Mim</h1>
-  <p>Sou Deive Oliveira, formado em Análise e Desenvolvimento de Sistemas, e trabalha como Analista Desenvolvedor. Tenho experiência no desenvolvimento e manutenção de aplicações utilizando .NET, Java, e bancos de dados como MySQL e PL/SQL.Atuo em todas as etapas do ciclo de vida do software, desde o planejamento até a entrega, e estou expandindo minhas habilidades em DevOps com Docker e Kubernetes, além de trabalhar com microsserviços. Também defendo o uso de código aberto e estou sempre buscando aprender novas tecnologias, como AWS e Spring Boot, para aprimorar minhas soluções. Minha comunicação, proatividade e resiliência me tornam um profissional preparado para trabalhar em equipe e enfrentar desafios. Com meu perfil autodidata, posso agregar valor ao tempo, trazendo soluções inovadoras e eficientes para os projetos da empresa.</p>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00A6B6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+o+Deive+Olievira;Tenho+23+anos;Moro+em+São+Paulo;Curso+Análise+e+Desenvolvimento+de+Sistemas;Bem-vindo!+:%29)](https://git.io/typing-svg)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DeiveOliveira&bg_color=0d0d0d&color=ffffff&line=002ee6&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DeiveOliveira&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
