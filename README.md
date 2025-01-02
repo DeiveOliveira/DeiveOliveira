@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/-CSS3-1A1A1A?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=1A1A1A" alt="CSS"/>
   <img src="https://img.shields.io/badge/-HTML5-1A1A1A?style=for-the-badge&logo=html5&labelColor=1A1A1A" alt="HTML"/>
   <img src="https://img.shields.io/badge/-Bootstrap-1A1A1A?style=for-the-badge&logo=bootstrap&labelColor=1A1A1A" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/-C%23-1A1A1A?style=for-the-badge&logo=csharp&labelColor=1A1A1A" alt="C#"/>
 </div>
 
 ---
@@ -36,8 +37,10 @@
 <h3 align="center">📘 Estudando 📘</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-1A1A1A?style=for-the-badge&logo=javascript&labelColor=1A1A1A" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-Python-1A1A1A?style=for-the-badge&logo=python&labelColor=1A1A1A" alt="Python"/>
+  <img src="https://img.shields.io/badge/-.NET-1A1A1A?style=for-the-badge&logo=dotnet&labelColor=1A1A1A" alt=".NET"/>
+  <img src="https://img.shields.io/badge/-AWS-1A1A1A?style=for-the-badge&logo=amazonaws&labelColor=1A1A1A" alt="AWS"/>
+  <img src="https://img.shields.io/badge/-React-1A1A1A?style=for-the-badge&logo=react&labelColor=1A1A1A" alt="React"/>
+  <img src="https://img.shields.io/badge/-Angular-1A1A1A?style=for-the-badge&logo=angular&labelColor=1A1A1A" alt="Angular"/>
 </div>
 
 ---
